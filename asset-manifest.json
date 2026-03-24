@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/snekha-portfolio/static/css/main.d3260672.css",
+    "main.js": "/snekha-portfolio/static/js/main.47016503.js",
+    "static/js/453.15a626a8.chunk.js": "/snekha-portfolio/static/js/453.15a626a8.chunk.js",
+    "static/media/photo-2.jpeg": "/snekha-portfolio/static/media/photo-2.b392fc434e2d3dbc1a07.jpeg",
+    "index.html": "/snekha-portfolio/index.html",
+    "main.d3260672.css.map": "/snekha-portfolio/static/css/main.d3260672.css.map",
+    "main.47016503.js.map": "/snekha-portfolio/static/js/main.47016503.js.map",
+    "453.15a626a8.chunk.js.map": "/snekha-portfolio/static/js/453.15a626a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3260672.css",
+    "static/js/main.47016503.js"
+  ]
+}
